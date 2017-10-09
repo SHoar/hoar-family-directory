@@ -32,6 +32,7 @@ ALLOWED_HOSTS = [ 'hoar-family-directory-shoar-1.c9users.io'
 # Application definition
 
 INSTALLED_APPS = [
+    'www',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',

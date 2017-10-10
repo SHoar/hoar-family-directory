@@ -1,0 +1,57 @@
+/* main.css */
+
+body {
+    background-color: #ddd;
+    font-size: 16px;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    left: 40px;
+    font-family: 'Arial', sans-serif;
+}
+
+main {
+    padding: 0;
+    margin: 0 auto;
+    
+    
+}
+
+section {
+    padding: 0;
+    min-width: 300px;
+    border-radius: 3px;
+    background-color: white;
+    text-align: center;
+    display: inline-block;
+    margin: 0 10px 10px;
+}
+
+h2 {
+    font-size: 2em;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+}
+
+img {
+    max-height: 100px;
+    max-width: 50%;
+    border: 2px solid #aaa;
+    border-radius: 80px;
+    margin-top: 10px;
+}
+
+.person-title {
+    font-size: 1em;
+    color: #aaa;
+    padding: 0;
+    margin: 0;
+}
+
+.person-email {
+    font-size: 1em;
+    color: blue;
+    padding: 0;
+    margin: 0;
+}

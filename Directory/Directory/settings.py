@@ -26,7 +26,7 @@ SECRET_KEY = 'rw(7ylkl32xdoig#2l^-me01c=nt&4mrk(#70cs^12f^qcga7k'
 DEBUG = True
 
 ALLOWED_HOSTS = [ 'hoar-family-directory-shoar-1.c9users.io'
-, 'localhost', '0.0.0.0', '127.0.0.1']
+, 'localhost', '0.0.0.0', '127.0.0.1', 'immense-ridge-29048.herokuapp.com']
 
 
 # Application definition
